@@ -1,6 +1,11 @@
 # COP5615: Distributed Operating Systems 
 # Project 4.1: Implementation of Bitcoin Protocol
 
+Team Members:
+```
+Sai Swetha Kondubhatla  UFID: 1172 9282
+Nikhil Reddy Kortha     UFID: 7193 8560
+```
 
 ## What is Working
 * **Wallet**: Every user maintains a wallet and the wallet consists of user Public key, Private key, balance remaining and the transactions he sent to other users and the transactions he received from other users. These transactions are called Unspent transactions and these determine the balance left in his account. 
